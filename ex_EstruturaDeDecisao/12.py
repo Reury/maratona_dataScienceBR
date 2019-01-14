@@ -9,5 +9,5 @@ elif(salario_bruto> 900 and salario_bruto<= 1500):
     # to do
 elif(salario_bruto> 1500 and salario_bruto<2500):
     # to do
-elif(salario_bruto > 2500);
+elif(salario_bruto > 2500):
     # to do
